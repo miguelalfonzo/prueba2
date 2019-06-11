@@ -23,4 +23,8 @@ $x="tiempo";
 
 echo "hola"
 $s="s";
+
+public function nointeger(){
+echo "no integer";
+}
 ?>
