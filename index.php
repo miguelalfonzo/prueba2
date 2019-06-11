@@ -20,4 +20,6 @@ public function calculo(){
 $x="tiempo";
 
 } 
+
+echo "hola"
 ?>
