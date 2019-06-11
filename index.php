@@ -9,4 +9,9 @@ $x="hola";
 
 } 
 
+public function tiempo(){
+
+$x="tiempo";
+
+} 
 ?>
