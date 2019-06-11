@@ -22,4 +22,5 @@ $x="tiempo";
 } 
 
 echo "hola"
+$s="s";
 ?>
