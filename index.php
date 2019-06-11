@@ -27,4 +27,8 @@ $s="s";
 public function nointeger(){
 echo "no integer";
 }
+
+public function enviarEmail(){
+$email="these@gmail.com";
+}
 ?>
