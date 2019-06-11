@@ -14,4 +14,10 @@ public function tiempo(){
 $x="tiempo";
 
 } 
+
+public function calculo(){
+
+$x="tiempo";
+
+} 
 ?>
